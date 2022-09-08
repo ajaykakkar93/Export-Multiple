@@ -1,0 +1,13 @@
+{
+	"name": "Export Multiple",
+	"description": "Export Multiple visualization",
+	"type": "visualization",
+	"version": "1.0.0",
+	"icon": "extension",
+	"author": "Ajay Kakkar",
+	"homepage": "https://ajaykakkar93.github.io/",
+	"keywords": "qlik-sense, visualization",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}
